@@ -2,7 +2,9 @@ Note: This is an independent portfolio/practice project inspired by modern finte
 
 
 Finance Transactions Analytics Dashboard (Power BI)
+
 Project Overview:
+
 An end-to-end Power BI analytics dashboard built to analyze 50,000 banking transactions across 3,983 customers and 7,987 accounts between January 2023 and April 2026.
 The project was designed to simulate how a finance operations or payments analytics team would monitor:
 Transaction performance and revenue trends.
@@ -26,17 +28,17 @@ Which customers are becoming inactive over time?
 
 The dashboard follows a star-schema architecture with:
 
-Transaction Fact Table
-Customer Dimension
-Calendar Table
+Transaction Fact Table,
+Customer Dimension,
+Calendar Table,
 
 The model supports:
 
-Time-intelligence analysis
-Customer segmentation
-Fraud monitoring
-Dynamic KPI reporting
-Purchase-frequency analytics
+Time-intelligence analysis,
+Customer segmentation,
+Fraud monitoring,
+Dynamic KPI reporting,
+Purchase-frequency analytics.
 
 A Dynamic Metric Field Parameter was implemented to allow users to switch KPI visuals between different business metrics without duplicating charts or measures, improving scalability and report usability.
 
