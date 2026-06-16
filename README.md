@@ -33,7 +33,6 @@ Customer Dimension,
 Calendar Table,
 
 The model supports:
-
 Time-intelligence analysis,
 Customer segmentation,
 Fraud monitoring,
@@ -125,7 +124,7 @@ Executive Overview
 <img width="1392" height="747" alt="image" src="https://github.com/user-attachments/assets/4820068d-873a-49f9-a108-d7b9cccebad3" />
 
 Transactions Analysis
-<img width="1385" height="741" alt="image" src="https://github.com/user-attachments/assets/d0af93eb-c2be-4509-ad25-5c24edb951a5" />
+<img width="1377" height="740" alt="image" src="https://github.com/user-attachments/assets/6c01e5c3-65e9-49f7-af96-3cf16b9e2aec" />
 
 Fraud & Risk Dashboard
 <img width="1320" height="747" alt="image" src="https://github.com/user-attachments/assets/8e88944b-6fe2-4ffe-a2ca-cabbb30fd639" />
